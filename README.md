@@ -28,4 +28,4 @@ and After some time, I found a tutorial asking to install Hevc extension and I d
 -  after, reinstall windows photos application again
 -  and thentry to run the .heic, It will work and ask to install another extension from the windows store, do this and it will work successfully
 
-  
+  https://www.microsoft.com/store/productId/9PMMSR1CGPWG?ocid=pdpshare
